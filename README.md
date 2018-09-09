@@ -6,4 +6,4 @@ This is a list of all the current project members:
 Kiersten Reina
 Alexia Bernardo
 Regina Locicero
-
+Ariel Viggiano
