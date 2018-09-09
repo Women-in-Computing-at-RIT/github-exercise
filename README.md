@@ -3,3 +3,4 @@
 This is a list of all the current project members:
 
 Regina Locicero
+Jakob Wiesmore
